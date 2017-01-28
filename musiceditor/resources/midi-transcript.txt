@@ -1,0 +1,102 @@
+Instrument
+Note, 64, 72
+Instrument
+Note, 55, 70
+Instrument
+Note, 62, 72
+Note, 64, 72
+Instrument
+Note, 60, 71
+Note, 62, 72
+Instrument
+Note, 62, 79
+Note, 60, 71
+Note, 55, 70
+Instrument
+Note, 55, 79
+Instrument
+Note, 64, 85
+Note, 62, 79
+Instrument
+Note, 64, 78
+Note, 64, 85
+Instrument
+Note, 64, 74
+Note, 64, 78
+Note, 55, 79
+Note, 64, 74
+Instrument
+Note, 55, 77
+Instrument
+Note, 62, 75
+Instrument
+Note, 62, 77
+Note, 62, 75
+Instrument
+Note, 62, 75
+Note, 62, 77
+Instrument
+Note, 55, 79
+Instrument
+Note, 64, 82
+Note, 55, 77
+Note, 62, 75
+Instrument
+Note, 67, 84
+Note, 55, 79
+Note, 64, 82
+Instrument
+Note, 67, 75
+Note, 67, 84
+Instrument
+Note, 55, 78
+Instrument
+Note, 64, 73
+Note, 67, 75
+Instrument
+Note, 62, 69
+Note, 64, 73
+Instrument
+Note, 60, 71
+Note, 62, 69
+Instrument
+Note, 62, 80
+Note, 60, 71
+Instrument
+Note, 55, 79
+Instrument
+Note, 64, 84
+Note, 55, 78
+Note, 62, 80
+Instrument
+Note, 64, 76
+Note, 64, 84
+Instrument
+Note, 64, 74
+Note, 64, 76
+Instrument
+Note, 64, 77
+Note, 64, 74
+Instrument
+Note, 55, 78
+Instrument
+Note, 62, 75
+Note, 55, 79
+Note, 64, 77
+Instrument
+Note, 62, 74
+Note, 62, 75
+Instrument
+Note, 64, 81
+Note, 62, 74
+Instrument
+Note, 62, 70
+Note, 64, 81
+Instrument
+Note, 52, 72
+Instrument
+Note, 60, 73
+Note, 55, 78
+Note, 62, 70
+Note, 52, 72
+Note, 60, 73
